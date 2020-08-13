@@ -3,7 +3,7 @@
 board = [" "," "," "," "," "," "," "," "," "]
 
 def display_board(board)
-  puts "Position 1: #{board[0]}, Position 2: #{board[1]}, Position 3: #{board[2]}, Position 4: #{board[3]}, Position 5: #{board[4]}, Position 6: #{board[5]}, Position 7: #{board[6]}, Position 8: #{board[7]}, Position 9: #{board[9]}"
+  puts "Position 1: #{board[0]}, Position 2: #{board[1]}, Position 3: #{board[2]}, Position 4: #{board[3]}, Position 5: #{board[4]}, Position 6: #{board[5]}, Position 7: #{board[6]}, Position 8: #{board[7]}, Position 9: #{board[8]}"
 end
 
 
