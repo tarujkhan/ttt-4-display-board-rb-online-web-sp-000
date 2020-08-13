@@ -15,5 +15,5 @@ puts " #{board[0]} #{divier} #{board[1]} #{divider} #{board[2]} "
 puts "#{lines}"
 puts " #{board[3]} #{divider} #{board[4]} #{divider} #{board[5]} "
 puts "#{lines}"
-puts " #{board[6]} #{separator} #{board[7]} #{separator} #{board[8]} "
+puts " #{board[6]} #{divider} #{board[7]} #{divider} #{board[8]} "
 end
