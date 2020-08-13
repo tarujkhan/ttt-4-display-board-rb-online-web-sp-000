@@ -11,7 +11,7 @@ def display_board(board)
 divider = "|"
 lines = "-----------"
 
-puts " #{board[0]} #{divier} #{board[1]} #{divider} #{board[2]} "
+puts " #{board[0]} #{divider} #{board[1]} #{divider} #{board[2]} "
 puts "#{lines}"
 puts " #{board[3]} #{divider} #{board[4]} #{divider} #{board[5]} "
 puts "#{lines}"
